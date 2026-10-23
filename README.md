@@ -65,7 +65,7 @@ Raw CSV Dataset
 
 ## 🖥️ Executive Power BI Dashboard ("Delivery Dashboard")
 
-![Delivery Dashboard Preview](dashboard_preview.png)
+![Delivery Dashboard Preview](delivery%20project%20dashboard.png)
 
 ### Core Report Components:
 * Metric Cards:
