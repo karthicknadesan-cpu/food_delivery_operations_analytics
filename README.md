@@ -84,8 +84,8 @@ Raw CSV Dataset
 
 ## 📁 Repository Structure
 ├── SQL/
-│   └── delivery%20project%20query.sql         # Complete staging, cleaning, view creation & analytical queries
+│   └── delivery project query.sql         # Complete staging, cleaning, view creation & analytical queries
 ├── Dashboard/
-│   ├── Delivery%20project.pbix       # Production Power BI dashboard file
-│   └── delivery%20project%20dashboard.png         # High-resolution dashboard report capture
+│   ├── Delivery project.pbix       # Production Power BI dashboard file
+│   └── delivery project dashboard.png         # High-resolution dashboard report capture
 └── README.md                         # Detailed technical project documentation
